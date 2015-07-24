@@ -2,6 +2,7 @@
 require(dplyr)
 require(data.table)
 require(magrittr)
+require(readr)
 #require(downloader)
 #Downloading and reading data
 #download("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip", destfile = "Dataset.zip", mode = "wb")
